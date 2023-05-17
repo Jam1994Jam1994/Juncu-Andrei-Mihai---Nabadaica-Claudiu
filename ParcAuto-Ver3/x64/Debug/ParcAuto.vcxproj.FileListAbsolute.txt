@@ -1,0 +1,9 @@
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\ParcAuto\x64\Debug\ParcAuto.vcxproj.AssemblyReference.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\ParcAuto\x64\Debug\ParcAuto.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\ParcAuto\x64\Debug\ParcAuto.exe
+C:\Users\sgher\Desktop\ParcAuto\x64\Debug\ParcAuto.vcxproj.AssemblyReference.cache
+C:\Users\sgher\Desktop\ParcAuto\x64\Debug\ParcAuto.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\sgher\Desktop\ParcAuto\x64\Debug\ParcAuto.exe
+C:\Users\juncu\Desktop\ParcAuto\x64\Debug\ParcAuto.vcxproj.AssemblyReference.cache
+C:\Users\juncu\Desktop\ParcAuto\x64\Debug\ParcAuto.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\juncu\Desktop\ParcAuto\x64\Debug\ParcAuto.exe
